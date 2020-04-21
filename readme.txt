@@ -1,2 +1,2 @@
-写一些写leetcode时的代
+写一些写leetcode时的code
 之前提交的就不写了，从第345题开始
